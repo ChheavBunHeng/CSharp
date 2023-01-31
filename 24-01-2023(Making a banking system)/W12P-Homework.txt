@@ -1,0 +1,5 @@
+Practice: Bank Accounts(GUI)
+============================
+1-Prerequisites: A console application simulates on bank accounts
+
+2-Create Window From application to simulate on bank accounts

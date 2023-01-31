@@ -1,0 +1,18 @@
+Practice: Bank Accounts
+=======================
+1-Prerequisites:
+	+TransactionType.cs, a source code containning an enumeration represting type of transactions
+       which will be made on bank account
+	+Transaction.cs, a source code containing a class Transaction representing a transaction which 
+       will be made on bank account
+	+BankAccountException.cs, a source code containing a class BankAccountException representing
+       an exception arised during simulating on a bank account
+	+Program.cs, a program source code to drive the console application to simulate on bank accounts
+	+create.txt, a text file contains textual data for initializing bank accounts
+	+The folder, BinaryDemo, containing an application to simulate on some bank accounts initialized 
+       from data in the data file, create.txt
+
+2-Create Console Application:
+  	+Replace the existing program.cs by the program.cs given in the step 1
+	+Create a class, BankAccount, representing a bank account will be expected to arise an exception
+       when being simulated such as creating, depositing, withdrawing, resetting or closing.

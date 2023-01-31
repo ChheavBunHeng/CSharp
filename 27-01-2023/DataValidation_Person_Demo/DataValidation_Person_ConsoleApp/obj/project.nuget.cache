@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FN2DemtjQO/Ts6H+wpznDOxWOeYBoUpIfXXrjGpUy/GKC4+jS2Kcdz1h6MZL1mzpTgSOVk4d7vVOqt9uXDf3rQ==",
+  "success": true,
+  "projectFilePath": "/home/duck/Documents/C#/27-01-2023/DataValidation_Person_Demo/DataValidation_Person_ConsoleApp/DataValidation_Person_ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "/home/duck/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.13/microsoft.netcore.app.host.linux-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

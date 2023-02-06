@@ -1,0 +1,7 @@
+100/Manit/Kung/male/34
+105/Dara/Vong/Male/22
+200/Nimol/Chan/Female/28
+300/Dalin/Sim/Female/25
+250/Neary/Um/F/33
+150/Sambat/Chan/M/44
+330/Narak/Prak/Male/23

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CW4a5/9VyFLiVJPTt6IEWqvrXRBJkBDxNV2SCfe0xbTgO00Fii4VcbhE6GoYfpQVIn/iEY99IKFAJ/wLZeBSpA==",
+  "success": true,
+  "projectFilePath": "/home/duck/Documents/C#/20-12-2022/Prerequisites/BookLibrary4X/BookLibrary4X/BookLibrary4X.csproj",
+  "expectedPackageFiles": [
+    "/home/duck/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.10/microsoft.aspnetcore.app.ref.6.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

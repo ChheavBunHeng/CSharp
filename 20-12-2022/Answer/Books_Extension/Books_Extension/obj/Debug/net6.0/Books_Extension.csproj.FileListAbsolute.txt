@@ -1,0 +1,36 @@
+D:/Teaching22-23/S1/W7-Indexer, Inheritance/Practice/Books_Extension/Books_Extension/bin/Debug/net6.0/Books_Extension.exe
+D:/Teaching22-23/S1/W7-Indexer, Inheritance/Practice/Books_Extension/Books_Extension/bin/Debug/net6.0/Books_Extension.deps.json
+D:/Teaching22-23/S1/W7-Indexer, Inheritance/Practice/Books_Extension/Books_Extension/bin/Debug/net6.0/Books_Extension.runtimeconfig.json
+D:/Teaching22-23/S1/W7-Indexer, Inheritance/Practice/Books_Extension/Books_Extension/bin/Debug/net6.0/Books_Extension.dll
+D:/Teaching22-23/S1/W7-Indexer, Inheritance/Practice/Books_Extension/Books_Extension/bin/Debug/net6.0/Books_Extension.pdb
+D:/Teaching22-23/S1/W7-Indexer, Inheritance/Practice/Books_Extension/Books_Extension/bin/Debug/net6.0/BookLibrary4X.dll
+D:/Teaching22-23/S1/W7-Indexer, Inheritance/Practice/Books_Extension/Books_Extension/obj/Debug/net6.0/Books_Extension.csproj.AssemblyReference.cache
+D:/Teaching22-23/S1/W7-Indexer, Inheritance/Practice/Books_Extension/Books_Extension/obj/Debug/net6.0/Books_Extension.GeneratedMSBuildEditorConfig.editorconfig
+D:/Teaching22-23/S1/W7-Indexer, Inheritance/Practice/Books_Extension/Books_Extension/obj/Debug/net6.0/Books_Extension.AssemblyInfoInputs.cache
+D:/Teaching22-23/S1/W7-Indexer, Inheritance/Practice/Books_Extension/Books_Extension/obj/Debug/net6.0/Books_Extension.AssemblyInfo.cs
+D:/Teaching22-23/S1/W7-Indexer, Inheritance/Practice/Books_Extension/Books_Extension/obj/Debug/net6.0/Books_Extension.csproj.CoreCompileInputs.cache
+D:/Teaching22-23/S1/W7-Indexer, Inheritance/Practice/Books_Extension/Books_Extension/obj/Debug/net6.0/Books_Extension.csproj.CopyComplete
+D:/Teaching22-23/S1/W7-Indexer, Inheritance/Practice/Books_Extension/Books_Extension/obj/Debug/net6.0/Books_Extension.dll
+D:/Teaching22-23/S1/W7-Indexer, Inheritance/Practice/Books_Extension/Books_Extension/obj/Debug/net6.0/refint/Books_Extension.dll
+D:/Teaching22-23/S1/W7-Indexer, Inheritance/Practice/Books_Extension/Books_Extension/obj/Debug/net6.0/Books_Extension.pdb
+D:/Teaching22-23/S1/W7-Indexer, Inheritance/Practice/Books_Extension/Books_Extension/obj/Debug/net6.0/Books_Extension.genruntimeconfig.cache
+D:/Teaching22-23/S1/W7-Indexer, Inheritance/Practice/Books_Extension/Books_Extension/obj/Debug/net6.0/ref/Books_Extension.dll
+D:/Teaching22-23/S1/W7-Indexer, Inheritance/Practice/Books_Extension/Books_Extension/bin/Debug/net6.0/data.txt
+/home/duck/Documents/C#/20-12-2022/Answer/Books_Extension/Books_Extension/bin/Debug/net6.0/data.txt
+/home/duck/Documents/C#/20-12-2022/Answer/Books_Extension/Books_Extension/bin/Debug/net6.0/Books_Extension
+/home/duck/Documents/C#/20-12-2022/Answer/Books_Extension/Books_Extension/bin/Debug/net6.0/Books_Extension.deps.json
+/home/duck/Documents/C#/20-12-2022/Answer/Books_Extension/Books_Extension/bin/Debug/net6.0/Books_Extension.runtimeconfig.json
+/home/duck/Documents/C#/20-12-2022/Answer/Books_Extension/Books_Extension/bin/Debug/net6.0/Books_Extension.dll
+/home/duck/Documents/C#/20-12-2022/Answer/Books_Extension/Books_Extension/bin/Debug/net6.0/Books_Extension.pdb
+/home/duck/Documents/C#/20-12-2022/Answer/Books_Extension/Books_Extension/bin/Debug/net6.0/BookLibrary4X.dll
+/home/duck/Documents/C#/20-12-2022/Answer/Books_Extension/Books_Extension/obj/Debug/net6.0/Books_Extension.csproj.AssemblyReference.cache
+/home/duck/Documents/C#/20-12-2022/Answer/Books_Extension/Books_Extension/obj/Debug/net6.0/Books_Extension.GeneratedMSBuildEditorConfig.editorconfig
+/home/duck/Documents/C#/20-12-2022/Answer/Books_Extension/Books_Extension/obj/Debug/net6.0/Books_Extension.AssemblyInfoInputs.cache
+/home/duck/Documents/C#/20-12-2022/Answer/Books_Extension/Books_Extension/obj/Debug/net6.0/Books_Extension.AssemblyInfo.cs
+/home/duck/Documents/C#/20-12-2022/Answer/Books_Extension/Books_Extension/obj/Debug/net6.0/Books_Extension.csproj.CoreCompileInputs.cache
+/home/duck/Documents/C#/20-12-2022/Answer/Books_Extension/Books_Extension/obj/Debug/net6.0/Books_Extension.csproj.CopyComplete
+/home/duck/Documents/C#/20-12-2022/Answer/Books_Extension/Books_Extension/obj/Debug/net6.0/Books_Extension.dll
+/home/duck/Documents/C#/20-12-2022/Answer/Books_Extension/Books_Extension/obj/Debug/net6.0/ref/Books_Extension.dll
+/home/duck/Documents/C#/20-12-2022/Answer/Books_Extension/Books_Extension/obj/Debug/net6.0/Books_Extension.pdb
+/home/duck/Documents/C#/20-12-2022/Answer/Books_Extension/Books_Extension/obj/Debug/net6.0/Books_Extension.genruntimeconfig.cache
+/home/duck/Documents/C#/20-12-2022/Answer/Books_Extension/Books_Extension/obj/Debug/net6.0/refint/Books_Extension.dll

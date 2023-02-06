@@ -1,0 +1,24 @@
+D:/Teaching22-23/S1/W7-Indexer, Inheritance/Practice/Prerequisites/BookLibrary4X/BookLibrary4X/bin/Debug/net6.0/BookLibrary4X.deps.json
+D:/Teaching22-23/S1/W7-Indexer, Inheritance/Practice/Prerequisites/BookLibrary4X/BookLibrary4X/bin/Debug/net6.0/BookLibrary4X.dll
+D:/Teaching22-23/S1/W7-Indexer, Inheritance/Practice/Prerequisites/BookLibrary4X/BookLibrary4X/bin/Debug/net6.0/BookLibrary4X.pdb
+D:/Teaching22-23/S1/W7-Indexer, Inheritance/Practice/Prerequisites/BookLibrary4X/BookLibrary4X/obj/Debug/net6.0/BookLibrary4X.csproj.AssemblyReference.cache
+D:/Teaching22-23/S1/W7-Indexer, Inheritance/Practice/Prerequisites/BookLibrary4X/BookLibrary4X/obj/Debug/net6.0/BookLibrary4X.GeneratedMSBuildEditorConfig.editorconfig
+D:/Teaching22-23/S1/W7-Indexer, Inheritance/Practice/Prerequisites/BookLibrary4X/BookLibrary4X/obj/Debug/net6.0/BookLibrary4X.AssemblyInfoInputs.cache
+D:/Teaching22-23/S1/W7-Indexer, Inheritance/Practice/Prerequisites/BookLibrary4X/BookLibrary4X/obj/Debug/net6.0/BookLibrary4X.AssemblyInfo.cs
+D:/Teaching22-23/S1/W7-Indexer, Inheritance/Practice/Prerequisites/BookLibrary4X/BookLibrary4X/obj/Debug/net6.0/BookLibrary4X.csproj.CoreCompileInputs.cache
+D:/Teaching22-23/S1/W7-Indexer, Inheritance/Practice/Prerequisites/BookLibrary4X/BookLibrary4X/obj/Debug/net6.0/BookLibrary4X.dll
+D:/Teaching22-23/S1/W7-Indexer, Inheritance/Practice/Prerequisites/BookLibrary4X/BookLibrary4X/obj/Debug/net6.0/refint/BookLibrary4X.dll
+D:/Teaching22-23/S1/W7-Indexer, Inheritance/Practice/Prerequisites/BookLibrary4X/BookLibrary4X/obj/Debug/net6.0/BookLibrary4X.pdb
+D:/Teaching22-23/S1/W7-Indexer, Inheritance/Practice/Prerequisites/BookLibrary4X/BookLibrary4X/obj/Debug/net6.0/ref/BookLibrary4X.dll
+/home/duck/Documents/C#/20-12-2022/Prerequisites/BookLibrary4X/BookLibrary4X/bin/Debug/net6.0/BookLibrary4X.deps.json
+/home/duck/Documents/C#/20-12-2022/Prerequisites/BookLibrary4X/BookLibrary4X/bin/Debug/net6.0/BookLibrary4X.dll
+/home/duck/Documents/C#/20-12-2022/Prerequisites/BookLibrary4X/BookLibrary4X/bin/Debug/net6.0/ref/BookLibrary4X.dll
+/home/duck/Documents/C#/20-12-2022/Prerequisites/BookLibrary4X/BookLibrary4X/bin/Debug/net6.0/BookLibrary4X.pdb
+/home/duck/Documents/C#/20-12-2022/Prerequisites/BookLibrary4X/BookLibrary4X/obj/Debug/net6.0/BookLibrary4X.csproj.AssemblyReference.cache
+/home/duck/Documents/C#/20-12-2022/Prerequisites/BookLibrary4X/BookLibrary4X/obj/Debug/net6.0/BookLibrary4X.GeneratedMSBuildEditorConfig.editorconfig
+/home/duck/Documents/C#/20-12-2022/Prerequisites/BookLibrary4X/BookLibrary4X/obj/Debug/net6.0/BookLibrary4X.AssemblyInfoInputs.cache
+/home/duck/Documents/C#/20-12-2022/Prerequisites/BookLibrary4X/BookLibrary4X/obj/Debug/net6.0/BookLibrary4X.AssemblyInfo.cs
+/home/duck/Documents/C#/20-12-2022/Prerequisites/BookLibrary4X/BookLibrary4X/obj/Debug/net6.0/BookLibrary4X.csproj.CoreCompileInputs.cache
+/home/duck/Documents/C#/20-12-2022/Prerequisites/BookLibrary4X/BookLibrary4X/obj/Debug/net6.0/BookLibrary4X.dll
+/home/duck/Documents/C#/20-12-2022/Prerequisites/BookLibrary4X/BookLibrary4X/obj/Debug/net6.0/ref/BookLibrary4X.dll
+/home/duck/Documents/C#/20-12-2022/Prerequisites/BookLibrary4X/BookLibrary4X/obj/Debug/net6.0/BookLibrary4X.pdb

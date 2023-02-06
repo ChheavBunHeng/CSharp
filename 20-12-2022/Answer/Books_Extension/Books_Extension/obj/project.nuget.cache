@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "u4PQY3Y0re0AmeWnlgnaVhRFCkfcM8nz1oS1qAgwtCa+8Htuzo59+Vg3hjC8zzI4iEeQYwgf4hIjWlpvf12Jdg==",
+  "success": true,
+  "projectFilePath": "/home/duck/Documents/C#/20-12-2022/Answer/Books_Extension/Books_Extension/Books_Extension.csproj",
+  "expectedPackageFiles": [
+    "/home/duck/.nuget/packages/microsoft.netcore.app.ref/6.0.13/microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "/home/duck/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.13/microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "/home/duck/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.13/microsoft.netcore.app.host.linux-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LA9zvL11mQcd914tJrgWGlzZWOcqs81HN1mP2hFLEuWiCCEfYM+BjSAZQtbON9EqnRmNNjgtChFKx5h0dr+kpw==",
+  "success": true,
+  "projectFilePath": "/home/duck/Documents/C#/22-12-2022/Abstract_Class_Demo/Shapes_Demo/Shapes_Demo.csproj",
+  "expectedPackageFiles": [
+    "/home/duck/.nuget/packages/microsoft.netcore.app.ref/6.0.13/microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "/home/duck/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.13/microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "/home/duck/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.13/microsoft.netcore.app.host.linux-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

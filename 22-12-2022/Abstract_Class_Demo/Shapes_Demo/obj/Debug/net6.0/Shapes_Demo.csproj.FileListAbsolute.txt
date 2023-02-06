@@ -1,0 +1,38 @@
+D:/Teaching22-23/S1/W8-Abstract Class/Theory/Abstract_Class_Demo/Shapes_Demo/bin/Debug/net6.0/data.txt
+D:/Teaching22-23/S1/W8-Abstract Class/Theory/Abstract_Class_Demo/Shapes_Demo/bin/Debug/net6.0/Shapes_Demo.exe
+D:/Teaching22-23/S1/W8-Abstract Class/Theory/Abstract_Class_Demo/Shapes_Demo/bin/Debug/net6.0/Shapes_Demo.deps.json
+D:/Teaching22-23/S1/W8-Abstract Class/Theory/Abstract_Class_Demo/Shapes_Demo/bin/Debug/net6.0/Shapes_Demo.runtimeconfig.json
+D:/Teaching22-23/S1/W8-Abstract Class/Theory/Abstract_Class_Demo/Shapes_Demo/bin/Debug/net6.0/Shapes_Demo.dll
+D:/Teaching22-23/S1/W8-Abstract Class/Theory/Abstract_Class_Demo/Shapes_Demo/bin/Debug/net6.0/Shapes_Demo.pdb
+D:/Teaching22-23/S1/W8-Abstract Class/Theory/Abstract_Class_Demo/Shapes_Demo/bin/Debug/net6.0/ShapeLibrary.dll
+D:/Teaching22-23/S1/W8-Abstract Class/Theory/Abstract_Class_Demo/Shapes_Demo/bin/Debug/net6.0/ShapeLibrary.pdb
+D:/Teaching22-23/S1/W8-Abstract Class/Theory/Abstract_Class_Demo/Shapes_Demo/obj/Debug/net6.0/Shapes_Demo.csproj.AssemblyReference.cache
+D:/Teaching22-23/S1/W8-Abstract Class/Theory/Abstract_Class_Demo/Shapes_Demo/obj/Debug/net6.0/Shapes_Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:/Teaching22-23/S1/W8-Abstract Class/Theory/Abstract_Class_Demo/Shapes_Demo/obj/Debug/net6.0/Shapes_Demo.AssemblyInfoInputs.cache
+D:/Teaching22-23/S1/W8-Abstract Class/Theory/Abstract_Class_Demo/Shapes_Demo/obj/Debug/net6.0/Shapes_Demo.AssemblyInfo.cs
+D:/Teaching22-23/S1/W8-Abstract Class/Theory/Abstract_Class_Demo/Shapes_Demo/obj/Debug/net6.0/Shapes_Demo.csproj.CoreCompileInputs.cache
+D:/Teaching22-23/S1/W8-Abstract Class/Theory/Abstract_Class_Demo/Shapes_Demo/obj/Debug/net6.0/Shapes_Demo.csproj.CopyComplete
+D:/Teaching22-23/S1/W8-Abstract Class/Theory/Abstract_Class_Demo/Shapes_Demo/obj/Debug/net6.0/Shapes_Demo.dll
+D:/Teaching22-23/S1/W8-Abstract Class/Theory/Abstract_Class_Demo/Shapes_Demo/obj/Debug/net6.0/refint/Shapes_Demo.dll
+D:/Teaching22-23/S1/W8-Abstract Class/Theory/Abstract_Class_Demo/Shapes_Demo/obj/Debug/net6.0/Shapes_Demo.pdb
+D:/Teaching22-23/S1/W8-Abstract Class/Theory/Abstract_Class_Demo/Shapes_Demo/obj/Debug/net6.0/Shapes_Demo.genruntimeconfig.cache
+D:/Teaching22-23/S1/W8-Abstract Class/Theory/Abstract_Class_Demo/Shapes_Demo/obj/Debug/net6.0/ref/Shapes_Demo.dll
+/home/duck/Documents/C#/22-12-2022/Abstract_Class_Demo/Shapes_Demo/bin/Debug/net6.0/data.txt
+/home/duck/Documents/C#/22-12-2022/Abstract_Class_Demo/Shapes_Demo/bin/Debug/net6.0/Shapes_Demo
+/home/duck/Documents/C#/22-12-2022/Abstract_Class_Demo/Shapes_Demo/bin/Debug/net6.0/Shapes_Demo.deps.json
+/home/duck/Documents/C#/22-12-2022/Abstract_Class_Demo/Shapes_Demo/bin/Debug/net6.0/Shapes_Demo.runtimeconfig.json
+/home/duck/Documents/C#/22-12-2022/Abstract_Class_Demo/Shapes_Demo/bin/Debug/net6.0/Shapes_Demo.dll
+/home/duck/Documents/C#/22-12-2022/Abstract_Class_Demo/Shapes_Demo/bin/Debug/net6.0/ref/Shapes_Demo.dll
+/home/duck/Documents/C#/22-12-2022/Abstract_Class_Demo/Shapes_Demo/bin/Debug/net6.0/Shapes_Demo.pdb
+/home/duck/Documents/C#/22-12-2022/Abstract_Class_Demo/Shapes_Demo/bin/Debug/net6.0/ShapeLibrary.dll
+/home/duck/Documents/C#/22-12-2022/Abstract_Class_Demo/Shapes_Demo/bin/Debug/net6.0/ShapeLibrary.pdb
+/home/duck/Documents/C#/22-12-2022/Abstract_Class_Demo/Shapes_Demo/obj/Debug/net6.0/Shapes_Demo.csproj.AssemblyReference.cache
+/home/duck/Documents/C#/22-12-2022/Abstract_Class_Demo/Shapes_Demo/obj/Debug/net6.0/Shapes_Demo.GeneratedMSBuildEditorConfig.editorconfig
+/home/duck/Documents/C#/22-12-2022/Abstract_Class_Demo/Shapes_Demo/obj/Debug/net6.0/Shapes_Demo.AssemblyInfoInputs.cache
+/home/duck/Documents/C#/22-12-2022/Abstract_Class_Demo/Shapes_Demo/obj/Debug/net6.0/Shapes_Demo.AssemblyInfo.cs
+/home/duck/Documents/C#/22-12-2022/Abstract_Class_Demo/Shapes_Demo/obj/Debug/net6.0/Shapes_Demo.csproj.CoreCompileInputs.cache
+/home/duck/Documents/C#/22-12-2022/Abstract_Class_Demo/Shapes_Demo/obj/Debug/net6.0/Shapes_Demo.csproj.CopyComplete
+/home/duck/Documents/C#/22-12-2022/Abstract_Class_Demo/Shapes_Demo/obj/Debug/net6.0/Shapes_Demo.dll
+/home/duck/Documents/C#/22-12-2022/Abstract_Class_Demo/Shapes_Demo/obj/Debug/net6.0/ref/Shapes_Demo.dll
+/home/duck/Documents/C#/22-12-2022/Abstract_Class_Demo/Shapes_Demo/obj/Debug/net6.0/Shapes_Demo.pdb
+/home/duck/Documents/C#/22-12-2022/Abstract_Class_Demo/Shapes_Demo/obj/Debug/net6.0/Shapes_Demo.genruntimeconfig.cache

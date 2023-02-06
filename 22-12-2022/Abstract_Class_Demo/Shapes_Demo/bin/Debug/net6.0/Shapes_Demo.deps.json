@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Shapes_Demo/1.0.0": {
+        "dependencies": {
+          "ShapeLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Shapes_Demo.dll": {}
+        }
+      },
+      "ShapeLibrary/1.0.0": {
+        "runtime": {
+          "ShapeLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Shapes_Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShapeLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,25 @@
+D:/Teaching22-23/S1/W8-Abstract Class/Theory/Abstract_Class_Demo/ShapeLibrary/bin/Debug/net6.0/ShapeLibrary.deps.json
+D:/Teaching22-23/S1/W8-Abstract Class/Theory/Abstract_Class_Demo/ShapeLibrary/bin/Debug/net6.0/ShapeLibrary.dll
+D:/Teaching22-23/S1/W8-Abstract Class/Theory/Abstract_Class_Demo/ShapeLibrary/bin/Debug/net6.0/ShapeLibrary.pdb
+D:/Teaching22-23/S1/W8-Abstract Class/Theory/Abstract_Class_Demo/ShapeLibrary/obj/Debug/net6.0/ShapeLibrary.csproj.AssemblyReference.cache
+D:/Teaching22-23/S1/W8-Abstract Class/Theory/Abstract_Class_Demo/ShapeLibrary/obj/Debug/net6.0/ShapeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:/Teaching22-23/S1/W8-Abstract Class/Theory/Abstract_Class_Demo/ShapeLibrary/obj/Debug/net6.0/ShapeLibrary.AssemblyInfoInputs.cache
+D:/Teaching22-23/S1/W8-Abstract Class/Theory/Abstract_Class_Demo/ShapeLibrary/obj/Debug/net6.0/ShapeLibrary.AssemblyInfo.cs
+D:/Teaching22-23/S1/W8-Abstract Class/Theory/Abstract_Class_Demo/ShapeLibrary/obj/Debug/net6.0/ShapeLibrary.csproj.CoreCompileInputs.cache
+D:/Teaching22-23/S1/W8-Abstract Class/Theory/Abstract_Class_Demo/ShapeLibrary/obj/Debug/net6.0/ShapeLibrary.dll
+D:/Teaching22-23/S1/W8-Abstract Class/Theory/Abstract_Class_Demo/ShapeLibrary/obj/Debug/net6.0/refint/ShapeLibrary.dll
+D:/Teaching22-23/S1/W8-Abstract Class/Theory/Abstract_Class_Demo/ShapeLibrary/obj/Debug/net6.0/ShapeLibrary.pdb
+D:/Teaching22-23/S1/W8-Abstract Class/Theory/Abstract_Class_Demo/ShapeLibrary/obj/Debug/net6.0/ref/ShapeLibrary.dll
+/home/duck/Documents/C#/22-12-2022/Abstract_Class_Demo/ShapeLibrary/bin/Debug/net6.0/ShapeLibrary.deps.json
+/home/duck/Documents/C#/22-12-2022/Abstract_Class_Demo/ShapeLibrary/bin/Debug/net6.0/ShapeLibrary.dll
+/home/duck/Documents/C#/22-12-2022/Abstract_Class_Demo/ShapeLibrary/bin/Debug/net6.0/ref/ShapeLibrary.dll
+/home/duck/Documents/C#/22-12-2022/Abstract_Class_Demo/ShapeLibrary/bin/Debug/net6.0/ShapeLibrary.pdb
+/home/duck/Documents/C#/22-12-2022/Abstract_Class_Demo/ShapeLibrary/obj/Debug/net6.0/ShapeLibrary.csproj.AssemblyReference.cache
+/home/duck/Documents/C#/22-12-2022/Abstract_Class_Demo/ShapeLibrary/obj/Debug/net6.0/ShapeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/duck/Documents/C#/22-12-2022/Abstract_Class_Demo/ShapeLibrary/obj/Debug/net6.0/ShapeLibrary.AssemblyInfoInputs.cache
+/home/duck/Documents/C#/22-12-2022/Abstract_Class_Demo/ShapeLibrary/obj/Debug/net6.0/ShapeLibrary.AssemblyInfo.cs
+/home/duck/Documents/C#/22-12-2022/Abstract_Class_Demo/ShapeLibrary/obj/Debug/net6.0/ShapeLibrary.csproj.CoreCompileInputs.cache
+/home/duck/Documents/C#/22-12-2022/Abstract_Class_Demo/ShapeLibrary/obj/Debug/net6.0/ShapeLibrary.dll
+/home/duck/Documents/C#/22-12-2022/Abstract_Class_Demo/ShapeLibrary/obj/Debug/net6.0/ref/ShapeLibrary.dll
+/home/duck/Documents/C#/22-12-2022/Abstract_Class_Demo/ShapeLibrary/obj/Debug/net6.0/ShapeLibrary.pdb
+/home/duck/Documents/C#/22-12-2022/Abstract_Class_Demo/ShapeLibrary/obj/Debug/net6.0/refint/ShapeLibrary.dll

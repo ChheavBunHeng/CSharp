@@ -1,0 +1,15 @@
+D:\Visual\C_Sharp\May\23-05-2023\obj\Debug\net7.0\23-05-2023.csproj.AssemblyReference.cache
+D:\Visual\C_Sharp\May\23-05-2023\obj\Debug\net7.0\23-05-2023.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual\C_Sharp\May\23-05-2023\obj\Debug\net7.0\23-05-2023.AssemblyInfoInputs.cache
+D:\Visual\C_Sharp\May\23-05-2023\obj\Debug\net7.0\23-05-2023.AssemblyInfo.cs
+D:\Visual\C_Sharp\May\23-05-2023\obj\Debug\net7.0\23-05-2023.csproj.CoreCompileInputs.cache
+D:\Visual\C_Sharp\May\23-05-2023\bin\Debug\net7.0\23-05-2023.exe
+D:\Visual\C_Sharp\May\23-05-2023\bin\Debug\net7.0\23-05-2023.deps.json
+D:\Visual\C_Sharp\May\23-05-2023\bin\Debug\net7.0\23-05-2023.runtimeconfig.json
+D:\Visual\C_Sharp\May\23-05-2023\bin\Debug\net7.0\23-05-2023.dll
+D:\Visual\C_Sharp\May\23-05-2023\bin\Debug\net7.0\23-05-2023.pdb
+D:\Visual\C_Sharp\May\23-05-2023\obj\Debug\net7.0\23-05-2023.dll
+D:\Visual\C_Sharp\May\23-05-2023\obj\Debug\net7.0\refint\23-05-2023.dll
+D:\Visual\C_Sharp\May\23-05-2023\obj\Debug\net7.0\23-05-2023.pdb
+D:\Visual\C_Sharp\May\23-05-2023\obj\Debug\net7.0\23-05-2023.genruntimeconfig.cache
+D:\Visual\C_Sharp\May\23-05-2023\obj\Debug\net7.0\ref\23-05-2023.dll

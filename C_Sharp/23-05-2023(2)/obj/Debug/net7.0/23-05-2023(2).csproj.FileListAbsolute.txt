@@ -1,0 +1,5 @@
+D:\Visual\C_Sharp\May\23-05-2023(2)\obj\Debug\net7.0\23-05-2023(2).csproj.AssemblyReference.cache
+D:\Visual\C_Sharp\May\23-05-2023(2)\obj\Debug\net7.0\23-05-2023(2).GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual\C_Sharp\May\23-05-2023(2)\obj\Debug\net7.0\23-05-2023(2).AssemblyInfoInputs.cache
+D:\Visual\C_Sharp\May\23-05-2023(2)\obj\Debug\net7.0\23-05-2023(2).AssemblyInfo.cs
+D:\Visual\C_Sharp\May\23-05-2023(2)\obj\Debug\net7.0\23-05-2023(2).csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+D:\Visual\C_Sharp\June\D13M06Y2023E1\obj\Debug\net7.0\D13M06Y2023E1.csproj.AssemblyReference.cache
+D:\Visual\C_Sharp\June\D13M06Y2023E1\obj\Debug\net7.0\D13M06Y2023E1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual\C_Sharp\June\D13M06Y2023E1\obj\Debug\net7.0\D13M06Y2023E1.AssemblyInfoInputs.cache
+D:\Visual\C_Sharp\June\D13M06Y2023E1\obj\Debug\net7.0\D13M06Y2023E1.AssemblyInfo.cs
+D:\Visual\C_Sharp\June\D13M06Y2023E1\obj\Debug\net7.0\D13M06Y2023E1.csproj.CoreCompileInputs.cache
+D:\Visual\C_Sharp\June\D13M06Y2023E1\bin\Debug\net7.0\D13M06Y2023E1.exe
+D:\Visual\C_Sharp\June\D13M06Y2023E1\bin\Debug\net7.0\D13M06Y2023E1.deps.json
+D:\Visual\C_Sharp\June\D13M06Y2023E1\bin\Debug\net7.0\D13M06Y2023E1.runtimeconfig.json
+D:\Visual\C_Sharp\June\D13M06Y2023E1\bin\Debug\net7.0\D13M06Y2023E1.dll
+D:\Visual\C_Sharp\June\D13M06Y2023E1\bin\Debug\net7.0\D13M06Y2023E1.pdb
+D:\Visual\C_Sharp\June\D13M06Y2023E1\obj\Debug\net7.0\D13M06Y2023E1.dll
+D:\Visual\C_Sharp\June\D13M06Y2023E1\obj\Debug\net7.0\refint\D13M06Y2023E1.dll
+D:\Visual\C_Sharp\June\D13M06Y2023E1\obj\Debug\net7.0\D13M06Y2023E1.pdb
+D:\Visual\C_Sharp\June\D13M06Y2023E1\obj\Debug\net7.0\D13M06Y2023E1.genruntimeconfig.cache
+D:\Visual\C_Sharp\June\D13M06Y2023E1\obj\Debug\net7.0\ref\D13M06Y2023E1.dll

@@ -1,0 +1,6 @@
+﻿1000/Mastering Java/300/Jakle Lin/2018
+1500/Learing C# 10/1200/Peter Adam/2020
+2000/Methodology of Research/200/Joe Macle/1999
+4500/C# Cook Book 2021/500/Peter Adam/2021
+4555/Professional C# 11/1000/Peter Adam/2022
+2345/Web API Micro Service /358/Jonh Cabridge/2022

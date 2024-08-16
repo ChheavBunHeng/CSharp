@@ -1,0 +1,15 @@
+C:\Users\bunch\Desktop\Visual Studio Code\CSharp\2024\August\Week2\ClassNObject\bin\Debug\net8.0\ClassNObject.exe
+C:\Users\bunch\Desktop\Visual Studio Code\CSharp\2024\August\Week2\ClassNObject\bin\Debug\net8.0\ClassNObject.deps.json
+C:\Users\bunch\Desktop\Visual Studio Code\CSharp\2024\August\Week2\ClassNObject\bin\Debug\net8.0\ClassNObject.runtimeconfig.json
+C:\Users\bunch\Desktop\Visual Studio Code\CSharp\2024\August\Week2\ClassNObject\bin\Debug\net8.0\ClassNObject.dll
+C:\Users\bunch\Desktop\Visual Studio Code\CSharp\2024\August\Week2\ClassNObject\bin\Debug\net8.0\ClassNObject.pdb
+C:\Users\bunch\Desktop\Visual Studio Code\CSharp\2024\August\Week2\ClassNObject\obj\Debug\net8.0\ClassNObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bunch\Desktop\Visual Studio Code\CSharp\2024\August\Week2\ClassNObject\obj\Debug\net8.0\ClassNObject.AssemblyInfoInputs.cache
+C:\Users\bunch\Desktop\Visual Studio Code\CSharp\2024\August\Week2\ClassNObject\obj\Debug\net8.0\ClassNObject.AssemblyInfo.cs
+C:\Users\bunch\Desktop\Visual Studio Code\CSharp\2024\August\Week2\ClassNObject\obj\Debug\net8.0\ClassNObject.csproj.CoreCompileInputs.cache
+C:\Users\bunch\Desktop\Visual Studio Code\CSharp\2024\August\Week2\ClassNObject\obj\Debug\net8.0\ClassNObject.sourcelink.json
+C:\Users\bunch\Desktop\Visual Studio Code\CSharp\2024\August\Week2\ClassNObject\obj\Debug\net8.0\ClassNObject.dll
+C:\Users\bunch\Desktop\Visual Studio Code\CSharp\2024\August\Week2\ClassNObject\obj\Debug\net8.0\refint\ClassNObject.dll
+C:\Users\bunch\Desktop\Visual Studio Code\CSharp\2024\August\Week2\ClassNObject\obj\Debug\net8.0\ClassNObject.pdb
+C:\Users\bunch\Desktop\Visual Studio Code\CSharp\2024\August\Week2\ClassNObject\obj\Debug\net8.0\ClassNObject.genruntimeconfig.cache
+C:\Users\bunch\Desktop\Visual Studio Code\CSharp\2024\August\Week2\ClassNObject\obj\Debug\net8.0\ref\ClassNObject.dll

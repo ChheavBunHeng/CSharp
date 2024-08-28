@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "dgSpecHash": "fJne3xIeWhg=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\bunch\\Desktop\\Visual Studio Code\\CSharp\\2024\\August\\Week3\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.DotNet.ILCompiler. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.DotNet.ILCompiler",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.NET.ILLink.Tasks. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.NET.ILLink.Tasks",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package runtime.win-x64.Microsoft.DotNet.ILCompiler. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "runtime.win-x64.Microsoft.DotNet.ILCompiler",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

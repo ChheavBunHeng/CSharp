@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "D:/Visual"
+		},
+		{
+			"path": "CITO Computer/Project I"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Visual",
+		"CodeGPT.apiKey": "OpenAI",
+		"files.associations": {
+			"E2.C": "cpp"
+		}
+	}
+}

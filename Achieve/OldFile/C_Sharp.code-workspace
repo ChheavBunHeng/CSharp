@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "C_Sharp"
+		}
+	],
+	"settings": {
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}
